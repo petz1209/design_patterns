@@ -1,2 +1,3 @@
 # Design Patterns in Python
-<p>A small tutorial / implementation guide for programming design patterns using python3</p>
+## Proxy Pattern
+<p>Uses a proxy to add an additional layer to a component (often used for security)</p>
