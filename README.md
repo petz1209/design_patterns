@@ -1,5 +1,5 @@
-# Builder 
-<p>Family: Creational Pattern</p>
+# Command
+<p>Family: Behavioral Pattern</p>
 <p>
-Used to build objects in a controlled way
+A nice pattern to set execution via params
 </p>
